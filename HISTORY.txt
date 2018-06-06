@@ -1,1 +1,2 @@
 historial del primer archivo en el repositorio
+modificacion de los comandos history
